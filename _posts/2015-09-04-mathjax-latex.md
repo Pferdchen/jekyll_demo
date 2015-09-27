@@ -46,8 +46,14 @@ Add $a$ squared and $b$ squared to get $c$ squared. Or, using a more mathematica
 
 $\TeX{}$ is pronounced as $\tau\epsilon\chi$. This comes from my $\heartsuit$
 
-Inline formular is as \\( \lim_{n \to \infty}\sum_{k=1}^n \frac{1}{k^2}= \frac{\pi^2}{6} \\), and block formular looks like:
-\\[ \lim_{n \to \infty}\sum_{k=1}^n \frac{1}{k^2}= \frac{\pi^2}{6} \\]
+Inline formular is as \\( \lim_{n \to \infty}
+\sum_{k=1}^n \frac{1}{k^2}
+= \frac{\pi^2}{6} \\), and block formular looks like:
+\\[
+\lim_{n \to \infty}
+\sum_{k=1}^n \frac{1}{k^2}
+= \frac{\pi^2}{6}
+\\]
 
 $$
 \mathbf{X} =
