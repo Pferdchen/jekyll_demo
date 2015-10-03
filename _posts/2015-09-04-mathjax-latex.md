@@ -74,3 +74,7 @@ $$
 \sum_{i=1}^n(y_i-\overline y)^2
 \biggr]^{1/2}}
 $$
+
+$$\lim_{n \to \infty}
+\sum_{k=1}^n \frac{1}{k^2}
+= \frac{\pi^2}{6}$$
