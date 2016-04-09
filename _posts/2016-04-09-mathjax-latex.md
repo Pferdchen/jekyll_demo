@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MathJax To LaTeX"
-date:   2016-04-09 22:10:55
+date:   2016-04-09 22:10:55 +0200
 categories: jekyll update
 ---
 [MathJax](http://www.mathjax.org) is a simple way of including $\TeX{}$/$\LaTeX{}$/$MathML$ based mathematics in HTML webpages.
